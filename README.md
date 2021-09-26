@@ -1,7 +1,7 @@
 # Bank-Management-System
 Language used : C++
 
-### A user can choose any of the following functionalities present in the Main Menu:
+## A user can choose any of the following functionalities present in the Main Menu:
 1. CREATE NEW ACCOUNT         
 2. DEPOSIT                    
 3. WITHDRAWAL                  
